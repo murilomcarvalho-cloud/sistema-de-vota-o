@@ -1,0 +1,4 @@
+1;Inteligência Artificial;Foco em Redes Neurais e Machine Learning
+2;Desenvolvimento Web;Foco em Apps, APIs e Sistemas em Nuvem
+3;Robótica e Automação;Foco em Sistemas Embarcados e IoT
+4;Cibersegurança;Foco em Defesa de Redes e Análise de Vulnerabilidades
